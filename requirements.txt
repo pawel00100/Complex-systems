@@ -1,0 +1,9 @@
+matplotlib==3.6.1
+optuna
+jupyter
+plotly
+sklearn
+SALib
+numpy
+scipy
+pandas
