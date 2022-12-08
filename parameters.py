@@ -15,5 +15,5 @@ class Parameters:
         self.xc, self.xe, self.y, self.w = xc, xe, y, w  # commoner pop, elite pop, nature, accumulated wealth
 
     def unpacked(self):
-        return self.xc, self.xc, self.y, self.w, self.am, self.aM, self.bc, self.be, self.s, self.gamma, self.lambda_, self.kappa, self.delta, self.rho
+        return self.xc, self.xe, self.y, self.w, self.am, self.aM, self.bc, self.be, self.s, self.gamma, self.lambda_, self.kappa, self.delta, self.rho
 
